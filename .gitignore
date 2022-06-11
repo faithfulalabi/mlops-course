@@ -1,5 +1,5 @@
 .ipynb_checkpoints
 *.bin
-*.DS_Store
+.DS_Store
 *.parquet
 *.icloud
